@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý hỗ trợ bài thi Aptis kĩ năng nói",
+  "description": "App generates English speech from text using Google GenAI TTS. Features male and female voice generation with audio download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
